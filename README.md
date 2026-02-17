@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Charliemagne Claros
-🌏 Based in Brisbane, Australia, and open to challenging backend or full-stack engineering roles.
+🇦🇺 Based in Brisbane, Australia, and open to challenging backend or full-stack engineering roles.
 
 ### 🧠 About Me
 Software Engineer with over 7 years of experience designing and building scalable web, mobile, and backend systems across diverse industries. I bring strong expertise in full-stack development, system architecture, and product-focused engineering, delivering solutions that are both technically sound and aligned with business goals. Currently, I focus on developing robust, production-ready applications built on clean architecture principles, ensuring scalability, maintainability, and long-term reliability.
